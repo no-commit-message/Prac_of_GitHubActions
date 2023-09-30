@@ -1,5 +1,10 @@
 # Environments
 venv/
+.env
 
 # Docker
 docker-compose.yml
+
+# cache files
+*.pyc
+__pycache__/
